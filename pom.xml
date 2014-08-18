@@ -70,11 +70,7 @@
 			<timezone>+1</timezone>
 		</contributor>
 	</contributors>
-	<scm>
-		<connection>scm:svn:http://svn.igniterealtime.org/svn/repos/tinder/trunk/</connection>
-		<developerConnection>scm:svn:https://svn.igniterealtime.org/svn/repos/tinder/trunk/</developerConnection>
-		<url>http://fisheye.igniterealtime.org/viewrep/tinder/trunk/</url>
-	</scm>
+
 	<build>
 		<plugins>
 			<plugin>
